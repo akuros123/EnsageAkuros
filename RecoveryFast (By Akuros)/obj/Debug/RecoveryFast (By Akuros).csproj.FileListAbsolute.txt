@@ -1,0 +1,11 @@
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\SharpDX.DXGI.dll
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\Newtonsoft.Json.dll
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast (By Akuros).csprojResolveAssemblyReference.cache
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast (By Akuros).csproj.CoreCompileInputs.cache
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\RecoveryFast(ByAkuros).exe.config
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\RecoveryFast(ByAkuros).exe
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\RecoveryFast(ByAkuros).pdb
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast(ByAkuros).exe
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast(ByAkuros).pdb

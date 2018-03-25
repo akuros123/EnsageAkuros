@@ -1,0 +1,5 @@
+E:\Program Files (x86)\Ensage\Cache\build\RecoveryFast (By Akuros)\RecoveryFast (By Akuros).dll.config
+E:\Program Files (x86)\Ensage\Cache\build\RecoveryFast (By Akuros)\RecoveryFast (By Akuros).dll
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Release\RecoveryFast (By Akuros).csprojResolveAssemblyReference.cache
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Release\RecoveryFast (By Akuros).csproj.CoreCompileInputs.cache
+C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Release\RecoveryFast (By Akuros).dll
