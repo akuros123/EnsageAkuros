@@ -1,0 +1,16 @@
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\Kill Bitches (By Akuros).exe.config
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\Kill Bitches (By Akuros).exe
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\Kill Bitches (By Akuros).pdb
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\Ensage.Common.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\Ensage.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\SharpDX.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\obj\Debug\Kill Bitches (By Akuros).csprojResolveAssemblyReference.cache
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\obj\Debug\Kill Bitches (By Akuros).csproj.CoreCompileInputs.cache
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\obj\Debug\Kill Bitches (By Akuros).exe
+C:\Users\Trabajo-Ale\Desktop\script interesantes\ensagexxx-master\Courrier Killer\Courrier Killer\obj\Debug\Kill Bitches (By Akuros).pdb
