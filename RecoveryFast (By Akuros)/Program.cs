@@ -15,7 +15,7 @@ namespace RecoveryFast
     internal static class Program
     {
         private static bool _loaded;
-        private static readonly Menu Menu = new Menu("RecoveryFast (By Akuros)", "Recovery", true);
+        private static readonly Menu Menu = new Menu("RecoveryFast (By Akuros)", "cb", true, "courier_return_stash_items", true).SetFontColor(Color.YellowGreen);
         private static Hero _globalTarget;
         private static readonly List<string> Items = new List<string>
         {
@@ -58,6 +58,13 @@ namespace RecoveryFast
             "item_magic_stick",
             "item_band_of_elvenskin",
             "item_mantle",
+            "item_heart",
+            "item_guardian_greaves",
+            "item_ghost",
+            "item_reaver",
+            "item_robe",
+            "item_rod_of_atos",
+            "item_ancient_janggo",
 
         };
         public static Dictionary<string, int>itemsInOrder = new Dictionary<string, int>();
@@ -111,6 +118,14 @@ namespace RecoveryFast
                 {Items[36],true},
                 {Items[37],true},
                 {Items[38],true},
+                {Items[39],true},
+                {Items[40],true},
+                {Items[41],true},
+                {Items[42],true},
+                {Items[43],true},
+                {Items[44],true},
+                {Items[45],true},
+
 
             };
 

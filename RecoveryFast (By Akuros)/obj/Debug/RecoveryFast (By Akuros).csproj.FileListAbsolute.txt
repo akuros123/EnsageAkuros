@@ -9,3 +9,7 @@ C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release
 C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\bin\Release\RecoveryFast(ByAkuros).pdb
 C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast(ByAkuros).exe
 C:\Users\cashe\Desktop\reparacion de script\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast(ByAkuros).pdb
+C:\Users\Trabajo-Ale\Documents\GitHub\EnsageAkuros\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast (By Akuros).csprojResolveAssemblyReference.cache
+C:\Users\Trabajo-Ale\Documents\GitHub\EnsageAkuros\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast (By Akuros).csproj.CoreCompileInputs.cache
+C:\Users\Trabajo-Ale\Documents\GitHub\EnsageAkuros\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast(ByAkuros).exe
+C:\Users\Trabajo-Ale\Documents\GitHub\EnsageAkuros\RecoveryFast (By Akuros)\obj\Debug\RecoveryFast(ByAkuros).pdb
